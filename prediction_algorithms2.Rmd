@@ -1,5 +1,5 @@
 ---
-title: "Untitled"
+title: "Machine Learning Course Project"
 author: "Lidia Ruiz"
 date: "Thursday, May 21, 2015"
 output: html_document
